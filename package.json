@@ -1,6 +1,6 @@
 {
   "name": "@libercapital/brasilapi",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "UNLICENSED",
   "type": "module",
   "main": "lib/main.cjs.js",
